@@ -1,0 +1,14 @@
+.result{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: grid;
+    place-content: center;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
